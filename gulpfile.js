@@ -21,7 +21,7 @@ var runSequence = require('run-sequence');
 
 var paths = {
   styles: [
-    './src/client/css/*.css',
+    './src/client/styles/css/*.css',
   ],
   scripts: [
     './src/client/js/*.js',
